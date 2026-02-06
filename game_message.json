@@ -1,0 +1,22 @@
+{
+    "th": [
+        "ยินดีต้อนรับสู่เกม หน้าอ่อน-หลังแข็ง เกมที่จะทำให้ลืมป๊อกเด้งไปตลอดกาล",
+        "ถ้ากล้าพอก็ท้าผู้เล่นด้วย Challenge Pad",
+        "โดน Challenge ถึงหน้าบ้าน อย่าถอย ตอบรับการ Challenge ซะ",
+        "ใจไม่สู้ set policy เป็น <nofight> จะไม่มีใครท้าคุณ!",
+        "policy <fight> จะ Challenge ทุกคนให้อัตโนมัติ",
+        "policy <guard> ไม่ Challenge ใคร แต่ใครท้า..ข้าไม่ถอย",
+        "policy <think> ขอคิดก่อนสู้!!! ถ้าไม่สู้ อย่าบอกตัวเองเป็นผู้กล้า",
+        "policy <nofight> ไม่รับ Challenge ใคร ... ใจไม่สู้"
+    ],
+    "en": [
+        "Welcome to 'Soft Front-Strong Back'. The game that will make you forget Thai-PokDeng forever!",
+        "Show your courage. Take on other players with the Challenge Pad.",
+        "When a Challenge hits your doorstep, don't run. Stand your ground and accept it!",
+        "Lost your nerve? Set policy to <nofight> and no one will bother you.",
+        "Policy <fight>: Automatically challenge everyone in your path!",
+        "Policy <guard>: Don't pick a fight, but never back down when challenged.",
+        "Policy <think>: Decide your destiny. But remember, true warriors don't hide!",
+        "Policy <nofight>: Reject all challenges... if you're not brave enough."
+    ]
+}
