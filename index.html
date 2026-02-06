@@ -2,9 +2,8 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <!-- สำคัญ: ทำให้เว็บ responsive บนมือถือ -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>เกมหน้าอ่อน-หลังแข็ง</title>
+  <title>เกมหน้าอ่อน-หลังแข็ง(SFSB)</title>
   <style>
     html, body {
       margin: 0;
@@ -38,24 +37,80 @@
       border-radius: 4px;
       cursor: pointer;
       font-size: 14px;
+      z-index: 20;
+    }
+    /* Splash screen */
+    #loading {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: #111;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-family: sans-serif;
+      z-index: 10;
+    }
+    #loading img {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+    #progress {
+      width: 80%;
+      height: 10px;
+      background: #333;
+      border-radius: 5px;
+      overflow: hidden;
+    }
+    #progress-bar {
+      width: 0%;
+      height: 100%;
+      background: #4caf50;
+      transition: width 0.2s;
     }
   </style>
 </head>
 <body>
   <div id="game-container">
+    <!-- Splash screen -->
+    <div id="loading">
+      <img src="index.png" alt="Game Logo"> <!-- ใช้โลโก้ที่ Godot export -->
+      <div>กำลังโหลดเกม...</div>
+      <div id="progress"><div id="progress-bar"></div></div>
+    </div>
+
+    <!-- Canvas ของเกม -->
     <canvas id="canvas"></canvas>
+
+    <!-- ปุ่ม fullscreen -->
     <button id="fullscreen-btn">Fullscreen</button>
   </div>
 
-  <!-- โหลดไฟล์เกมที่ Godot export -->
+  <!-- โหลด engine -->
   <script src="index.js"></script>
   <script>
     const engine = new Engine();
+
+    // ใช้ callback ของ engine เพื่ออัพเดต progress bar จริง
+    engine.setProgressFunc((current, total) => {
+      const bar = document.getElementById("progress-bar");
+      if (total > 0) {
+        let percent = Math.floor((current / total) * 100);
+        bar.style.width = percent + "%";
+      }
+    });
+
+    // เริ่มโหลดเกม
     engine.startGame({
       canvas: document.getElementById("canvas"),
-      executable: "index",     // ชื่อหลัก (ตรงกับ index.pck)
-      files: ["index.pck"],    // ไฟล์ resource
-      wasm: "index.wasm"       // ไฟล์ wasm
+      executable: "index",     // ตรงกับ index.pck
+      files: ["index.pck"],    // resource
+      wasm: "index.wasm"       // wasm
+    }).then(() => {
+      // เมื่อโหลดเสร็จ → ซ่อน splash screen
+      document.getElementById("loading").style.display = "none";
     });
 
     // ปุ่ม fullscreen
