@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <!-- สำคัญมาก: ทำให้เว็บ responsive บนมือถือ -->
+  <!-- สำคัญ: ทำให้เว็บ responsive บนมือถือ -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>เกมหน้าอ่อน-หลังแข็ง</title>
   <style>
@@ -11,25 +11,22 @@
       padding: 0;
       width: 100%;
       height: 100%;
-      overflow: hidden; /* กัน scroll bar */
-      background: #000; /* พื้นหลังดำ */
+      overflow: hidden;
+      background: #000;
     }
-
     #game-container {
-      width: 100vw;   /* เต็มความกว้างหน้าจอ */
-      height: 100vh;  /* เต็มความสูงหน้าจอ */
+      width: 100vw;
+      height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
+      position: relative;
     }
-
     canvas {
       width: 100%;
       height: 100%;
       display: block;
     }
-
-    /* ปุ่ม fullscreen */
     #fullscreen-btn {
       position: absolute;
       bottom: 10px;
@@ -50,12 +47,15 @@
     <button id="fullscreen-btn">Fullscreen</button>
   </div>
 
-  <!-- Godot Engine Loader -->
-  <script src="game.js"></script>
+  <!-- โหลดไฟล์เกมที่ Godot export -->
+  <script src="index.js"></script>
   <script>
     const engine = new Engine();
     engine.startGame({
-      canvas: document.getElementById("canvas")
+      canvas: document.getElementById("canvas"),
+      executable: "index",     // ชื่อหลัก (ตรงกับ index.pck)
+      files: ["index.pck"],    // ไฟล์ resource
+      wasm: "index.wasm"       // ไฟล์ wasm
     });
 
     // ปุ่ม fullscreen
