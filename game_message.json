@@ -8,8 +8,14 @@
         ]
     },
     "announcement": {
-            "th": ["ยินดีต้อนรับสู่เกม หน้าอ่อน-หลังแข็ง เกมที่จะทำให้ลืม <ป๊อกเด้ง> ไปตลอดกาล"],
-            "en": ["Welcome to 'Soft Front-Strong Back'. The game that will make you forget Thai-PokDeng forever!"]
+            "th": ["ยินดีต้อนรับสู่เกม หน้าอ่อน-หลังแข็ง เกมที่จะทำให้ลืม <ป๊อกเด้ง> ไปตลอดกาล",
+                "เกมเพื่อความผ่อนคลาย ไม่ส่งเสริมการพนัน...",
+                "นางฟ้ากับปีศาจน้อย เพื่อสร้างสีสรร โปรดอย่าถือสา"
+            ],
+            "en": ["Welcome to 'Soft Front-Strong Back'. The game that will make you forget Thai-PokDeng forever!",
+                "For entertainment only. Does not promote gambling.",
+                "Angel & Little Devil: Just for entertainment. Don't take it personally!"
+            ]
     },
     "info": {
         "th": [
