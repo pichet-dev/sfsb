@@ -1,0 +1,307 @@
+{
+    "angel": {
+        "win": {
+            "th": [
+                "ชัยชนะนี้คู่ควรกับคนดีศรีสังคมอย่างคุณที่สุด!",
+                "ว้าว! แต้มของคุณช่างงดงามดั่งแสงอรุณยามเช้า",
+                "เทวดาเห็นแล้วยังต้องยิ้ม ชนะแบบใสสะอาดจริงๆ",
+                "สวรรค์ทรงโปรดแท้ๆ พรสวรรค์ของคุณมันช่างเจิดจ้า",
+                "เก่งที่สุดเลย! ความดีของคุณส่งผลให้ไพ่เข้าทางจริงๆ",
+                "คุณเล่นได้งดงาม ราวกับแสงสวรรค์ส่องนำทาง!",
+                "คุณแสดงพลังแห่งความหวังออกมาได้อย่างสมบูรณ์แบบ!",
+                "ทุกไพ่ที่คุณวางลงคือบทเพลงแห่งชัยชนะ!",
+                "ชัยชนะครั้งนี้คือพรจากสวรรค์ จงภูมิใจเถิด!",
+                "ยอดเยี่ยมมาก! คุณทำได้จริงๆ",
+                "ฉันภูมิใจในตัวคุณเสมอ",
+                "ชัยชนะนี้คู่ควรกับคุณ",
+                "คุณเก่งมาก รักษาฟอร์มนี้ไว้นะ"
+            ],
+            "en": [
+                "This victory belongs to a wonderful person like you!",
+                "Wow! Your score is as beautiful as the morning sun.",
+                "Even the angels are smiling; a truly clean victory!",
+                "Heaven is pleased! Your talent is shining so bright.",
+                "You're the best! Your kindness really made the cards work for you.",
+                "Wonderful! You truly did it.",
+                "I'm always proud of you.",
+                "This victory truly belongs to you.",
+                "You're amazing. Keep this momentum."
+            ]
+        },
+        "lose": {
+            "th": [
+                "ไม่เป็นไรนะ... ตาหน้าสวรรค์ทรงโปรดแน่นอน",
+                "เจ็บแค่นี้ไม่ตายหรอก... นางฟ้าเอาใจช่วยอยู่ข้างๆ นะ",
+                "ความพยายามอยู่ที่ไหน ความเด้งอยู่ที่นั่น... สู้ต่อไปนะ",
+                "สวรรค์กำลังทดสอบจิตใจคุณอยู่ อย่าเพิ่งท้อถอยล่ะ",
+                "พักใจสักครู่ แล้วกลับมาจัดใหม่ด้วยใจที่บริสุทธิ์นะ",
+                "ไม่เป็นไรนะ เริ่มใหม่ได้เสมอ",
+                "ความพยายามของคุณมีค่าเสมอ",
+                "นางฟ้าอยู่ข้างคุณเสมอนะ..สู้ๆ",
+                "ครั้งหน้า คุณจะทำได้ดียิ่งขึ้น"
+            ],
+            "en": [
+                "It's okay, dear... Heaven will surely bless your next hand.",
+                "This little sting won't kill you... I'm right here by your side.",
+                "Where there's a will, there's a way... Keep on fighting!",
+                "Heaven is testing your spirit. Don't give up just yet!",
+                "Rest your heart for a moment, then come back with a pure soul.",
+                "It's okay. You can always try again.",
+                "Your effort always matters.",
+                "I'm here with you.",
+                "Next time, you'll do even better."
+            ]
+        },
+        "arrange": {
+            "th": [
+                "ครั้งหน้า...ต้องเป็นโอกาสของเรา",
+                "คุณไม่ได้จัดไพ่ช้า...เวลาเดินไวไปหน่อย",
+                "ไม่เป็นไรนะ... เวลาเดินไวเหมือนติดปีกเลย นางฟ้าเข้าใจจ้ะ",
+                "ใจเย็นๆ นะ ครั้งหน้าลองมองหาไพ่ชุดหลักก่อน สู้ๆ นะคะ",
+                "เมื่อกี้คงกำลังเลือกท่าที่สวยที่สุดอยู่ใช่ไหมล่ะ? ตาหน้าเอาใหม่นะ!",
+                "พักหายใจสักนิด แล้วกลับมาจัดใหม่ด้วยสมาธิที่แน่วแน่นะ",
+                "ครั้งหน้าต้องเป็นโอกาสของเราแน่นอน อย่าเพิ่งท้อถอยนะ",
+                "ใจเย็นๆ คิดอย่างรอบคอบนะ",
+                "คุณทำได้ แค่ใช้เวลาอีกนิด",
+                "เชื่อมั่นในตัวเองนะ"
+            ],
+            "en": [
+                "Maybe next time will be our chance.",
+                "The clock just flew by too fast.",
+                "Don't worry, time flies when you're having fun!",
+                "Take your time and think carefully.",
+                "You can do it. Just a bit more time.",
+                "Believe in yourself."
+            ]
+        },
+        "derby": {
+            "th": [
+                "คุณเก่งมากๆเลย .... ผู้ชนะในรอบนี้",
+                "สุดยอดนักวางกลยุทธ์ จัดไพ่ได้รางวัล สุดยอดมาก!!!",
+                "ชัยชนะนี้ช่างงดงาม",
+                "คุณสมควรได้รับมันจริงๆ"
+            ],
+            "en": [
+                "You are amazing! The winner of this round.",
+                "Master strategist! Incredible card arrangement!",
+                "This victory is beautiful.",
+                "You truly deserve it."
+            ]
+        },
+        "lose_derby": {
+            "th": [
+                "รอบหน้า...ต้องเป็นโอกาสของเรา..แน่นอน",
+                "เราไม่ได้เสียตามลำพัง มีเพื่อนเยอะนะ .. สู้ๆ",
+                "ไม่เป็นไร โอกาสหน้ายังมี",
+                "ความพยายามของคุณน่าชื่นชม"
+            ],
+            "en": [
+                "Next round will definitely be ours.",
+                "You're not alone, we have many friends here. Fighting!",
+                "It's okay. There will be another chance.",
+                "Your effort is admirable."
+            ]
+        },
+        "gameover": {
+            "th": [
+                "นักสู้ล้มแล้วลุก ... ประสบการณ์ครั้งนี้ จะทำให้คุณแกร่งกว่าเดิม",
+                "นางฟ้าเชื่อว่าข้างในตัวคุณมีพลังที่ยิ่งใหญ่กว่านี้ ตาหน้าเอาใหม่นะคะ",
+                "ความพ่ายแพ้คือบทเรียนที่งดงามที่สุด สวรรค์ยังเอาใจช่วยคุณอยู่เสมอ",
+                "อย่าเพิ่งท้อถอยเลยนะ... เมฆหมอกจางไป แสงสว่างจะกลับมาหาคุณแน่นอน",
+                "ขอบคุณที่พยายามอย่างเต็มที่ เราจะสู้ใหม่ไปด้วยกัน",
+                "นางฟ้าจะรอคุณกลับมาเสมอ..คุณทำได้"
+            ],
+            "en": [
+                "A true fighter always gets back up.",
+                "I believe in your inner strength. Let's try again!",
+                "Defeat is a beautiful lesson. Heaven is still on your side.",
+                "Don't give up! After the clouds, the sun will shine again.",
+                "Thank you for trying your best.",
+                "I'll always be here waiting for you."
+            ]
+        },
+        "winner": {
+            "th": [
+                "สุดยอดมากๆ ... คุณเก่งจริงๆ",
+                "รัศมีผู้ชนะของคุณมันช่างเจิดจ้า จนสวรรค์ต้องเปิดทางให้เลยล่ะ!",
+                "เก่งที่สุดเลย! ความดีของคุณส่งผลให้ไพ่เข้าทางจริงๆ",
+                "คุณคือผู้ชนะที่แท้จริง",
+                "นางฟ้าภูมิใจในตัวคุณมาก"
+            ],
+            "en": [
+                "Incredible! You are truly talented.",
+                "Your winner's aura is so bright, even heaven makes way!",
+                "You're the best! Your goodness made the cards work for you.",
+                "You are the true winner.",
+                "I'm so happy for you."
+            ]
+        },
+        "general": {
+            "th": ["จัดไพ่ดีๆนะคะ .. เป็นกำลังใจให้อยู่นะ",
+                    "รอบนี้ ขอให้ได้ดาร์บี้..นะคะ",
+                    "ชัยชนะต้องเป็นของคุณ แน่ๆ",
+                    "จัดไพ่ดี มีชัยไปกว่าครึ่ง..สู้สู้..นะคะ",
+                    "ฉันเชื่อในตัวคุณเสมอ",
+                    "คุณมีศักยภาพมากกว่าที่คิด",
+                    "ก้าวต่อไปอย่างมั่นใจนะ"
+            ],
+            "en": ["Arrange your cards well. I'm rooting for you!",
+                    "I always believe in you.",
+                    "You have more potential than you think.",
+                    "Move forward with confidence."
+            ]
+        }
+    },
+    "devil": {
+        "win": {
+            "th": [
+                "ชนะเพราะดวงชัดๆ... อย่าหลงระเริงไปหน่อยเลย",
+                "เหอะ! ชนะแค่นี้ทำเป็นยืด ข้าล่ะหมั่นไส้จริงๆ",
+                "โกงมาหรือเปล่าเนี่ย? คนอย่างแกไม่น่าชนะได้นะ",
+                "เอาเถอะ... ปล่อยให้ดีใจไปก่อน เดี๋ยวข้าจะเอาคืนให้ยับ",
+                "โชคช่วยแท้ๆ ครั้งหน้าแกไม่รอดเงื้อมมือข้าหรอก",
+                "เฮ้ย ฟลุ๊คป่าวเนี่ย?",
+                "ชนะได้ไงเนี่ย งงเลย",
+                "ครั้งหน้าไม่รอดแน่"
+            ],
+            "en": [
+                "Pure luck... don't get too ahead of yourself.",
+                "Pffft! Winning a little and acting big? How annoying.",
+                "Did you cheat? Someone like you shouldn't be winning.",
+                "Fine... enjoy it for now. I'll crush you in the next round.",
+                "Lucky brat! You won't escape my grasp next time.",
+                "Hey, was that just luck?",
+                "How did you even win? Weird.",
+                "You won't survive next time."
+            ]
+        },
+        "lose": {
+            "th": [
+                "แพ้อีกแล้วเหรอ? กระจอกกว่าที่คิดไว้นี่นา... ฮิฮิ",
+                "แต้มแค่นี้... กลับไปเล่นขายของที่บ้านไป๊!",
+                "โอ้โฮ! จัดไพ่ได้ 'สิ้นคิด' จริงๆ",
+                "เห็นหน้าตอนแพ้แล้ว... ข้ามีความสุขจัง!",
+                "สมน้ำหน้า! แพ้จนหน้าซีดเป็นไก่ต้มเลยนะ",
+                "ทะลุแล้ว ทะลุอีก ฝีมือต่ำกว่ามาตรฐานนะ!!!",
+                "บอกแล้วไง ว่าแกไม่รอด",
+                "โถ่... น่าสงสารจัง",
+                "นี่คือฝีมือที่ดีที่สุดแล้วเหรอ?",
+                "ยกน้ำชา มาคาราวะ .. จะถ่ายทอดวิชาให้!!!"
+            ],
+            "en": [
+                "Lost again? You're weaker than I thought... Hehe.",
+                "With those points... go back to playing with toys!",
+                "Wow! Such a 'brainless' layout. Typical of you.",
+                "Seeing your face when you lose... brings me so much joy!",
+                "Serves you right! You look as pale as a ghost after that loss.",
+                "Told you, you wouldn't make it.",
+                "Aww... how pitiful.",
+                "Is that really your best?"
+            ]
+        },
+        "arrange": {
+            "th": [
+                "555 จัดไพ่ไม่ทัน ตอนเด็กๆ ไม่ขยันเรียนคณิต",
+                "จัดไพ่ช้าเป็นเต่า ... จัดทันก็แปลกแล้ว",
+                "มัวแต่หลับในหรือไง? จัดไม่ทันแบบนี้ ไปเล่นขายของเถอะ!",
+                "ไพ่แค่ไม่กี่ใบยังจัดไม่ทัน แบบนี้จะไปทำอะไรกิน ฮิฮิ",
+                "จัดไพ่ช้าขนาดนี้ ชาติหน้าก็ยังเล่นไม่จบหรอกนะ!",
+                "555 จัดไม่ทันเพราะนับเลขไม่เป็น หรือลืมวิธีเล่นกันแน่?",
+                "ช้าแบบนี้ หลับก่อนดีกว่า",
+                "คิดนานจัง สมองทำงานอยู่ไหม?"                
+            ],
+            "en": [
+                "Haha! Out of time. Didn't study math as a kid?",
+                "Slow as a turtle... no wonder you didn't finish.",
+                "Asleep at the wheel? Go play something easier!",
+                "You're so slow. I might fall asleep.",
+                "Thinking this long? Is your brain working?"
+            ]
+        },
+        "derby": {
+            "th": ["โธ่เอ๊ย... ก็แค่คนอื่นเขายอมให้ ยังไม่รู้ตัวอีก",
+                    "ชนะก็แค่ครั้งเดียวแหละ",
+                    "อย่าพึ่งหลงตัวเองนะ"
+            ],
+            "en": ["Pfft... they just let you win. You don't even know it.",
+                    "It's just one win.",
+                    "Don't get cocky yet."
+            ]
+        },
+        "lose_derby": {
+            "th": [
+                "ดีๆๆ สมๆๆ ฝีมืออ่อนหัดจริงๆ ให้คนอื่นดาร์บี้",
+                "โดนดาร์บี้อีกแล้ว...เมื่อไหร่จะจดจำ",
+                "แพ้แบบนี้ เจ็บไหมล่ะ",
+                "โดนดาร์บี้ ยังไม่ตกรอบอีกเหรอ?",
+                "สมควรแล้วจริงๆ"
+            ],
+            "en": [
+                "Good! Serves you right. So weak you let them get a Derby.",
+                "Derby-ed again? When will you ever learn?",
+                "Does that loss hurt?",
+                "You deserved that."
+            ]
+        },
+        "gameover": {
+            "th": [
+                "ตกรอบอีกแล้ววววว เมื่อไหร่จะพัฒนา ฮิฮิ",
+                "เชอะ! อ่อนหัดจริงๆ ตกรอบไปกินนมแล้วนอนซะไป๊!",
+                "สมน้ำหน้า! แพ้จนหน้าซีดเป็นไก่ต้มเลยนะ",
+                "ฝีมืออ่อนหัดจริงๆ  ตกรอบซ้ำแล้ว ซ้ำเล่า",
+                "จบแล้วเหรอ เร็วจัง",
+                "ไปฝึกมาใหม่เถอะ"
+            ],
+            "en": [
+                "Game Over again? When will you ever improve? Hehe.",
+                "Pfft! So weak. Go drink some milk and go to bed!",
+                "Serves you right! Your face is pale as a boiled chicken.",
+                "Game over already? That was fast.",
+                "Go practice and come back."
+            ]
+        },
+        "winner": {
+            "th": [
+                "เชอะ!!! เก่งตาย คนอื่นเขาอ่อนข้อให้",
+                "ก็แค่ฟลุ๊คน่า... อย่าคิดว่าตัวเองเป็นเซียนไพ่หน่อยเลย!",
+                "ชนะเพราะดวงชัดๆ... อย่าหลงระเริงไปหน่อยเลย",
+                "โชคช่วยแท้ๆ ครั้งหน้าแกไม่รอดเงื้อมมือข้าหรอก",
+                "แต้มบุญสูงนะ .. ถึงได้ชนะครั้งนี้",
+                "โชคดีไปนะ",
+                "ครั้งหน้าไม่ง่ายแบบนี้แน่"
+            ],
+            "en": [
+                "Tch! Big deal. They were just going easy on you.",
+                "Just a fluke... don't think you're a pro!",
+                "Won by luck... don't get cocky.",
+                "Pure luck! You won't be so lucky next time.",
+                "You just got lucky.",
+                "Next time won't be this easy."
+            ]
+        },
+        "general": {
+            "th": [
+                "แค่อยากมาบอก .. ข้าง่วงนอน",
+                "วันนี้ ... จะกินอะไร ดีน๊า...",
+                "รอบนี้...แกคิดว่าจะชนะมั๊ย?",
+                "ยอมแพ้ก็ได้นะ...",
+                "จัดอย่างนี้ ... แกโดนทะลุ แน่ๆ...",
+                "จัดไพ่ เหมือนคนไม่มีความรู้เลยนะ...",
+                "ถามหน่อยดิ..ห้องน้ำไปทางไหน?",
+                "นี่แกแอบเล่น ในเวลางานป่าวเนี๊ยะ",
+                "แกอย่าไปฟัง นังนางฟ้ามากนัก ยัยนั่นขี้อวย",
+                "ยังไม่ตกรอบอีกเหรอเนี่ย",
+                "อย่าทำให้ฉันเบื่อสิ",
+                "พยายามอีกหน่อยสิ... ถ้าทำได้",
+                "อะไรนะ ... ให้ข้าหุบปาก  ... แกฝันอยู่ใช่มั๊ย?"
+            ],
+            "en": [
+                "Just wanted to say... I'm sleepy.",
+                "I wonder what I should eat today...",
+                "Still here?",
+                "Don't bore me.",
+                "Try harder... if you can."
+            ]
+        }
+    }
+}
