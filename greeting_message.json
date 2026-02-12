@@ -52,12 +52,7 @@
       "ขอให้ความทุกข์ละลายไปกับสายน้ำ มีแต่ความสุขสดชื่นเข้ามาแทนที่",
       "สุขสันต์วันสงกรานต์ ขอให้ร่ำรวยความสุขและเงินทองตลอดไป"
     ],
-    "en": [
-      "Wishing you a cool and refreshing Songkran festival!",
-      "Happy Thai New Year! May you be blessed with joy and laughter.",
-      "May the water wash away all your worries and bring you peace.",
-      "Wishing you a safe and joyful Songkran celebration!"
-    ]
+    "en": [""]
   },
   "14/04": {
     "festival": "songkran",
@@ -67,12 +62,7 @@
       "ขอให้ความทุกข์ละลายไปกับสายน้ำ มีแต่ความสุขสดชื่นเข้ามาแทนที่",
       "สุขสันต์วันสงกรานต์ ขอให้ร่ำรวยความสุขและเงินทองตลอดไป"
     ],
-    "en": [
-      "Wishing you a cool and refreshing Songkran festival!",
-      "Happy Thai New Year! May you be blessed with joy and laughter.",
-      "May the water wash away all your worries and bring you peace.",
-      "Wishing you a safe and joyful Songkran celebration!"
-    ]
+    "en": [""]
   },
   "15/04": {
     "festival": "songkran",
@@ -82,12 +72,17 @@
       "ขอให้ความทุกข์ละลายไปกับสายน้ำ มีแต่ความสุขสดชื่นเข้ามาแทนที่",
       "สุขสันต์วันสงกรานต์ ขอให้ร่ำรวยความสุขและเงินทองตลอดไป"
     ],
-    "en": [
-      "Wishing you a cool and refreshing Songkran festival!",
-      "Happy Thai New Year! May you be blessed with joy and laughter.",
-      "May the water wash away all your worries and bring you peace.",
-      "Wishing you a safe and joyful Songkran celebration!"
-    ]
+    "en": [""]
+  },
+  "12/08": {
+    "festival": "mothers_day",
+    "th": [
+      "สุขสันต์วันแม่! อย่าลืมกอดแม่และบอกรักแม่กันนะ",
+      "ขอให้คุณแม่ของคุณมีความสุข สุขภาพแข็งแรง และมีรอยยิ้มในวันนี้",
+      "รักแม่ให้มากๆ นะ... พลังแห่งความกตัญญูจะนำโชคดีมาให้คุณ!",
+      "วันนี้ วันแม่ บอกรักแม่กันแล้วหรือยัง?"
+    ],
+    "en": [""]
   },
   "31/10": {
     "festival": "halloween",
@@ -112,12 +107,17 @@
       "ลอยกระทงปีนี้ ขอให้คุณพบเจอแต่กัลยาณมิตรและรักที่ดี",
       "อธิษฐานสิ่งใดขอให้สมปรารถนาในคืนพระจันทร์เต็มดวงจ้ะ"
     ],
-    "en": [
-      "Happy Loy Krathong! May your worries float away with the river.",
-      "Wishing you a bright and beautiful night under the full moon.",
-      "May the candlelight bring you hope and a new beginning.",
-      "May all your wishes come true on this magical Thai night."
-    ]
+    "en": [""]
+  },
+  "05/12": {
+    "festival": "fathers_day",
+    "th": [
+      "สุขสันต์วันพ่อ! ขอให้คุณพ่อมีความสุขและภูมิใจในตัวลูกคนเก่งนะ",
+      "วันนี้เป็นวันดี... อย่าลืมบอกรักพ่อให้ชื่นใจกันนะ",
+      "ขอให้คุณพ่อมีสุขภาพแข็งแรง เป็นร่มโพธิ์ร่มไทรให้คุณไปนานๆ",
+      "เจ้าปีศาจน้อยแอบบอกว่า... วันนี้ยอมให้คุณพ่อชนะเกมหนึ่งวันก็ได้นะ!"
+    ],
+    "en": [""]
   },
   "25/12": {
     "festival": "xmas",
@@ -134,7 +134,28 @@
       "Warmest thoughts and best wishes for a wonderful Christmas."
     ]
   },
-  "12/02": {
+  "00/00": {
+    "festival": "default",
+    "th": [""],
+    "en": [""]
+  },
+  "00/00": {
+    "festival": "buddhas_day",
+    "th": ["วันนี้วันพระใหญ่... ขอให้แสงแห่งธรรมนำทางชีวิตให้พบแต่ความสุขและความสงบ",
+        "วันนี้วันพระ ละเว้นบาป หมั่นทำบุญ เพื่อจิตใจที่เบิกบาน",
+        "ขอให้ผลบุญจากการคิดดีทำดีในวันนี้ ช่วยปกป้องคุ้มครองคุณและครอบครัวให้ปลอดภัย",
+        "วันพระนี้... ขอให้ใจเย็นดั่งสายน้ำ มีสติในทุกย่างก้าว รัศมีบุญเจิดจ้า",
+        "วันนี้วันพระใหญ่ ใส่บาตร ทำบุญ แล้วมาทำสมาธิกันนะ",
+        "วันนี้เราจะ ละความชั่ว ทำความดีให้ถึงพร้อม ทำจิตใจให้ผ่องใส"
+    ],
+    "en": [""]
+  },
+  "00/00": {
+    "festival": "election",
+    "th": [""],
+    "en": [""]
+  },
+  "00/00": {
     "festival": "funeral",
     "th": [""],
     "en": [""]
